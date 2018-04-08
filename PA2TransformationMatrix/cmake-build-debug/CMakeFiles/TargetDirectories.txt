@@ -1,0 +1,3 @@
+/home/pqy/CLionProjects/PA2TransformationMatrix/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/pqy/CLionProjects/PA2TransformationMatrix/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/pqy/CLionProjects/PA2TransformationMatrix/cmake-build-debug/CMakeFiles/PA2TransformationMatrix.dir
